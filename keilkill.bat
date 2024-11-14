@@ -18,7 +18,6 @@ del *.axf /s
 del *.tra /s
 del *.dep /s           
 del JLinkLog.txt /s
-::del *.opt /s  ::不允许删除JLINK的设置
 
 del *.iex /s
 del *.htm /s
